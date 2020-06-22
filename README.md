@@ -12,3 +12,6 @@ sfkldsnfsdkfndsfls
 
 ## Deployment
 this is a simple web project ,deployment can be on any web server or local system
+
+### Copyright 
+2020 git training
