@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-that i have modified. Adding a sentence for rebase example, thensomethindf
+that i have modified. Adding a sentence for rebase example, thensomething.
+updating
 
 ## Purpose
 
