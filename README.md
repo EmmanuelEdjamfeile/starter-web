@@ -15,4 +15,4 @@ please fork this repo and then issue Pull Requests for review
 this is a simple web project ,deployment can be on any web server or local system
 
 ### Copyright 
-2020 git training
+2020 git training.All rights reserved
